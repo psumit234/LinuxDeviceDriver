@@ -1,6 +1,7 @@
 #ifndef CIRCULAR_BUFFER_H
 #define CIRCULAR_BUFFER_H
 #include "data.h"
+
 #include <pthread.h>
 
 #define BUFFER_SIZE 1024
